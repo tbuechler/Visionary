@@ -1,6 +1,6 @@
 # Visionary Upload App
 
-![CI](https://github.com/tbuechler/Visionary/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/tbuechler/Visionary/actions/workflows/ci.yml/badge.svg)](https://github.com/tbuechler/Visionary/actions/workflows/ci.yml)
 
 A professional full-stack app for uploading files using:
 
