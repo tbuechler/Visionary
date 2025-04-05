@@ -13,7 +13,7 @@ export default function Home() {
       body: formData,
     });
     const json = await res.json();
-    setResult(\`Uploaded \${json.filename} (\${json.size} bytes)\`);
+    setResult(`Uploaded \${json.filename} (\${json.size} bytes)`);
   };
 
   return (
